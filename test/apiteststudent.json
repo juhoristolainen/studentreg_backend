@@ -1,0 +1,13 @@
+{
+  "studentcode": "A1234",
+  "name": "Apitesti Opiskelija",
+  "email": "a1234@jamk.fi",
+  "studypoints": 0,
+  "grades": [
+    {
+      "coursecode": "HTS10900",
+      "grade": 0
+    }
+  ],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp1aG8iLCJpc2FkbWluIjp0cnVlLCJpYXQiOjE2NDk2NzYzNTUsImV4cCI6MTY0OTc2Mjc1NX0.Ydzf6-zMxDa17dgNsOnPh38inIOH5H7Tqa-5r8PrpAw"
+}
